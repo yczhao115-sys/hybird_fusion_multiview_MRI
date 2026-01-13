@@ -1,5 +1,4 @@
 # hybird_fusion_multiview_MRI
-Hybrid Multi-View MRI Fusion via Intra- and Inter-View Transformers
 
 This repository provides the official PyTorch implementation of the core model architecture proposed in:
 
